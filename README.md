@@ -37,3 +37,11 @@ Once done you can double check the installation with
 From here we will now be using the Jekyll to create our state site. With your terminal run the command
 
     jekyll new foo
+
+
+## **Acknowledgements**
+Mike Dane
+https://www.youtube.com/watch?v=T1itpPvFWHI
+
+
+https://github.com/PurpleBooth/a-good-readme-template/blob/main/README.md 

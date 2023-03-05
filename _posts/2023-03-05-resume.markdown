@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Resume"
+date:   2023-03-05 00:22:38 -0600
+categories: jekyll update
+---
+
+## **Education**
+---
+Bachelor of Science, Computer Science Major (Co-op Option) 	                                	  
+University of Manitoba (Expected Graduation Date: May 2023)
+- Cumulative GPA: 4.0/4.5
+
+## **Technical Skills**
+---
+### Languages Experienced with: 
+C#, Java, C, C++, Assembly, JavaScript, Typescript, HTML, CSS.
+
+### Software Experienced with: 
+Intellij, BlueJ, Visual Studio, Visual Studio Code, Rider, Sublime Text, Azure Devops, Azure Pipelines, Kubernetes, Graphite
+
+## **Industry Work Experience**
+---
+### Software Developer, Co-op Work Term 2 <br>
+iQmetrix (Sept 2021-Dec 2021)			           
+
+- Built and deployed work on azure pipelines to ensure safe deployments
+- Monitored server status through kubernetes to trace issues
+- Setup monitoring services such as graphite to give feedback
+- Wrote unit tests for C# and performed tests for peer tickets
+
+### Software Developer, Co-op Work Term 1<br>
+Johnston Group (Jan 2021-Apr 2021)
+
+- Performed bug fixes on C# backend
+- Created new endpoints for 3rd party companies to interact with in C#
+- Worked with business analyst’s to ensure their vision came through
+- Wrote unit tests for C# and Typescript changes
+
+## **Projects**
+---
+
+### Student Assistant App<br>
+Comp 3350 Software Engineering (Summer 2021)
+
+- Created an app on android studio using Java as the main language
+- Tracked progress through GitHub
+
+### Delivery App Front-End<br>
+Comp 3020 HCI (Fall 2020)
+
+- Worked with a team to create the U.I. for a delivery front-end using HTML, CSS, and Javascript
