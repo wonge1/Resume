@@ -58,7 +58,7 @@ foo is in place of your chose site name
 By default a basic set of files will be generated for you. The folder **_posts** will be where you will want to place your resume.md. However it will have to be formatted in the same way as the default post, with the Jekyll info included at the top
 
 <p align="center">
-  <img src="./_img/JekyllPostInfo.png" alt="Jekyll Post Heading Example" width="300">
+  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/JekyllPostInfo.PNG" alt="Jekyll Post Heading Example" width="300">
 </p>
 
 
