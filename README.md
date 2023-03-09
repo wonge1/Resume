@@ -96,6 +96,14 @@ These commands from top to bottom do the following
 -   connect to your created repository
 -   then push your commit to the repository
 
+If you want to update your resume you can make your changes and then run to push your new changes to the site on GitHub pages.
+```
+git add .
+git commit -m "initial commit"
+git push origin gh-pages
+```
+
+
 At this point GitHub should be able to identify the resources you pushed and create the site automatically. You can find your url by going to your repo settings and then heading to the pages tab.
 
 <p align="center">
