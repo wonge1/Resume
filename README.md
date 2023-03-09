@@ -1,4 +1,4 @@
-# **Guide for Publishing A Resume to Github Pages**
+# **Guide for Publishing A Resume Online to Github Pages**
 
 ## **Introduction**
 
@@ -102,6 +102,10 @@ At this point GitHub should be able to identify the resources you pushed and cre
   <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/Url.PNG" alt="Pages Url Location" width="700">
 </p>
 
+If you would like to style your site in a way different to the default then you can learn more at 
+
+https://jekyllrb.com/docs/step-by-step/07-assets/
+
 ## **FAQ**
 
 **Q** &nbsp; Why does Ruby/Gem/Jekyll -v return a not found error even after I downloaded them?
@@ -127,6 +131,12 @@ At this point GitHub should be able to identify the resources you pushed and cre
 ## **More Resources**
 Mike Dane's Guide to Jekyll: https://www.youtube.com/watch?v=T1itpPvFWHI
 
-A General Readme Template: https://github.com/PurpleBooth/a-good-readme-template/blob/main/README.md 
+Etters Book to Technical Writing: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
-## **Acknoledgements**
+Guide to Markdown: https://www.w3schools.io/file/markdown-introduction/
+
+Examples of Resumes: https://www.indeed.com/career-advice/resume-samples
+
+## **Acknowledgements**
+
+A General Readme Template: https://github.com/PurpleBooth/a-good-readme-template/blob/main/README.md 
