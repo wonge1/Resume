@@ -99,12 +99,34 @@ These commands from top to bottom do the following
 At this point GitHub should be able to identify the resources you pushed and create the site automatically. You can find your url by going to your repo settings and then heading to the pages tab.
 
 <p align="center">
-  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/Url.PNG" alt="Pages Url Location" width="300">
+  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/Url.PNG" alt="Pages Url Location" width="700">
 </p>
 
-## **Acknowledgements**
-Mike Dane
-https://www.youtube.com/watch?v=T1itpPvFWHI
+## **FAQ**
 
+**Q** &nbsp; Why does Ruby/Gem/Jekyll -v return a not found error even after I downloaded them?
 
-https://github.com/PurpleBooth/a-good-readme-template/blob/main/README.md 
+**A** &nbsp; This can occur when using an older terminal. If this is the case, then it can be resolved by simply closing your current terminal, opening a new one, and then repeating the command.
+
+---
+
+**Q** &nbsp; Why should I use Markdown?
+
+**A** &nbsp; The .md format enables you to make many dynamic changes like Word might, but all within the file itself in a format designed for the web with readable syntax. In addition, the format is extremely malleable, being able to be changed to .html or .pdf very easily.
+
+---
+
+**Q** &nbsp; Why did my website fail to run?
+
+**A** &nbsp; There could be many answers here, but to best diagnose it head to the GitHub Actions tab. There you can observe your workflow and see more details on why your site might have failed.
+
+<p align="center">
+  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/ActionsTab.PNG" alt="Workflow Location" width="700">
+</p>
+
+## **More Resources**
+Mike Dane's Guide to Jekyll: https://www.youtube.com/watch?v=T1itpPvFWHI
+
+A General Readme Template: https://github.com/PurpleBooth/a-good-readme-template/blob/main/README.md 
+
+## **Acknoledgements**
