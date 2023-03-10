@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Resume"
+title:  "Edmund Wong"
 date:   2023-03-05 00:22:38 -0600
 categories: jekyll update
 ---
+127 Laval Dr, Winnipeg MB, R3T 2X9 | wonge1@myumanitoba.ca | T 204-999-6748
 
 ## **Education**
 ---
