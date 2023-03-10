@@ -66,7 +66,7 @@ jekyll new foo
 By default a basic set of files will be generated for you. The folder **_posts** will be where you will want to place your content. However it will have to be formatted in the same way as the default post, with the Jekyll info included at the top and similar naming convention.
 
 <p align="center">
-  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/AddingResumeInfo.gif" alt="Jekyll Post Heading Example" width="300">
+  <img src="https://github.com/wonge1/Resume/blob/gh-pages/_img/AddingResumeInfo.gif" alt="Jekyll Post Heading Example" width="600">
 </p>
 
 At this point you can move on to the next section if you wish to simply host your site on GitHub Pages, however if you would like to see what your site looks like locally continue in this section.
