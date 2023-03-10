@@ -1,5 +1,13 @@
 # **Guide for Publishing A Resume Online to Github Pages**
 
+## **Connection to Etters Principles**
+
+1. For this assignment we will be using GitHub for distributed version control. This gives us access to a recorded history of changes. This enables us to explore site generation for efficiently and safely, without fear of breaking previously fine objects.
+
+2. For this assignment we will be using markdown for both the resume as well as the instruction set. This is because of its universality in its uses across local machines, hosted sites, and static sites. In addition it is easily edited with build in languages.
+ 
+3. To run this site locally we will be using Jekyll as our static site generator. We are doing this because of their various benefits. These include their lightweight nature, with no outside dependencies needed. In addition it lets us preview our site before any publishing occurs.
+
 ## **Introduction**
 
 The purpose of this guide will be to walk you through the steps necessary to host a resume on a static site and deploy to Github Pages. This option gives your resume a more dynamic presentation that can be updated easily with changes or different styles.
